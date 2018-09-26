@@ -1,1 +1,4 @@
-print "Hello_world !"
+print " c'est quoi ton blaze ?"
+user = gets.chomp
+
+print "Hello " + user + " !"
